@@ -1,0 +1,7 @@
+F:\新研发中心\CS平台\Runtime\CRCC.BaseClientSystem.IRepositories.dll
+F:\新研发中心\CS平台\Runtime\CRCC.BaseClientSystem.IRepositories.pdb
+F:\新研发中心\CS平台\CRCC.BaseClientSystem.IRepositories\obj\Debug\CRCC.BaseClientSystem.IRepositories.csproj.AssemblyReference.cache
+F:\新研发中心\CS平台\CRCC.BaseClientSystem.IRepositories\obj\Debug\CRCC.BaseClientSystem.IRepositories.csproj.CoreCompileInputs.cache
+F:\新研发中心\CS平台\CRCC.BaseClientSystem.IRepositories\obj\Debug\CRCC.BaseClientSystem.IRepositories.csproj.CopyComplete
+F:\新研发中心\CS平台\CRCC.BaseClientSystem.IRepositories\obj\Debug\CRCC.BaseClientSystem.IRepositories.dll
+F:\新研发中心\CS平台\CRCC.BaseClientSystem.IRepositories\obj\Debug\CRCC.BaseClientSystem.IRepositories.pdb

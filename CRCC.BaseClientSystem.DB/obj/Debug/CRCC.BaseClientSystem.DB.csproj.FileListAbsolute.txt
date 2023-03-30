@@ -1,0 +1,7 @@
+F:\新研发中心\CS平台\Runtime\CRCC.BaseClientSystem.DB.dll
+F:\新研发中心\CS平台\Runtime\CRCC.BaseClientSystem.DB.pdb
+F:\新研发中心\CS平台\CRCC.BaseClientSystem.DB\obj\Debug\CRCC.BaseClientSystem.DB.csproj.AssemblyReference.cache
+F:\新研发中心\CS平台\CRCC.BaseClientSystem.DB\obj\Debug\CRCC.BaseClientSystem.DB.csproj.CoreCompileInputs.cache
+F:\新研发中心\CS平台\CRCC.BaseClientSystem.DB\obj\Debug\CRCC.BaseClientSystem.DB.csproj.CopyComplete
+F:\新研发中心\CS平台\CRCC.BaseClientSystem.DB\obj\Debug\CRCC.BaseClientSystem.DB.dll
+F:\新研发中心\CS平台\CRCC.BaseClientSystem.DB\obj\Debug\CRCC.BaseClientSystem.DB.pdb
